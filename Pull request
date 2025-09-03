@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>States of India</title>
+</head>
+<body>
+  <h2>10 States in India</h2>
+  <ol>
+    <li>Andhra Pradesh</li>
+    <li>Karnataka</li>
+    <li>Tamil Nadu</li>
+    <li>Kerala</li>
+    <li>Maharashtra</li>
+    <li>Gujarat</li>
+    <li>Rajasthan</li>
+    <li>Punjab</li>
+    <li>West Bengal</li>
+    <li>Uttar Pradesh</li>
+  </ol>
+</body>
+</html>
+
